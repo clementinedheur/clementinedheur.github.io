@@ -14,81 +14,32 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-sobre",
-    title: "sobre",
-    section: "",
+    id: "nav-about",
+    title: "about",
+    section: "menu de navigation",
     handler: () => {
       window.location.href = "/fr/";
     },
-  },{id: "nav-blog",
-          title: "blog",
-          description: "um tema simples para acadêmicos",
-          section: "",
-          handler: () => {
-            window.location.href = "/fr/blog/";
-          },
-        },{id: "nav-publicações",
-          title: "publicações",
-          description: "publicações por categoria em ordem cronológica reversa. gerado pelo jekyll-scholar.",
-          section: "",
-          handler: () => {
-            window.location.href = "/fr/publications/";
-          },
-        },{id: "nav-projetos",
+  },{id: "nav-projetos",
           title: "projetos",
           description: "Uma crescente coleção de seus projetos interessantes.",
-          section: "",
+          section: "menu de navigation",
           handler: () => {
             window.location.href = "/fr/projects/";
           },
-        },{id: "nav-repositórios",
-          title: "repositórios",
-          description: "Edite o `_data/repositories.yml` e mude as listas `github_users` e `github_repos` para incluir seu próprio perfil do GitHub e repositórios.",
-          section: "",
-          handler: () => {
-            window.location.href = "/fr/repositories/";
-          },
         },{id: "nav-cv",
           title: "cv",
-          description: "Esta é uma descrição da página. Você pode modificá-la em &#39;_pages/cv.md&#39;. Também pode alterar ou remover o botão no topo de download de pdf.",
-          section: "",
+          description: "",
+          section: "menu de navigation",
           handler: () => {
             window.location.href = "/fr/cv/";
           },
-        },{id: "nav-ensino",
-          title: "ensino",
-          description: "Materiais de cursos que você ministrou. Substitua esse texto com sua descrição.",
-          section: "",
-          handler: () => {
-            window.location.href = "/fr/teaching/";
-          },
-        },{id: "nav-membros",
-          title: "membros",
-          description: "membros do grupo de pesquisa ou laboratório",
-          section: "",
-          handler: () => {
-            window.location.href = "/fr/people/";
-          },
-        },{id: "dropdown-estante-de-livros",
-              title: "estante de livros",
-              description: "",
-              section: "",
-              handler: () => {
-                window.location.href = "/fr/books/";
-              },
-            },{id: "dropdown-blog",
-              title: "blog",
-              description: "",
-              section: "",
-              handler: () => {
-                window.location.href = "/fr/blog/";
-              },
-            },{id: "post-a-post-with-plotly-js",
+        },{id: "post-a-post-with-plotly-js",
         
           title: "a post with plotly.js",
         
         description: "this is what included plotly.js code could look like",
-        section: "",
+        section: "articles",
         handler: () => {
           
             window.location.href = "/fr/blog/2025/plotly/";
@@ -99,7 +50,7 @@ ninja.data = [{
           title: "a post with image galleries",
         
         description: "this is what included image galleries could look like",
-        section: "",
+        section: "articles",
         handler: () => {
           
             window.location.href = "/fr/blog/2024/photo-gallery/";
@@ -110,7 +61,7 @@ ninja.data = [{
           title: 'Google Gemini updates: Flash 1.5, Gemma 2 and Project Astra <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
         description: "We’re sharing updates across our Gemini family of models and a glimpse of Project Astra, our vision for the future of AI assistants.",
-        section: "",
+        section: "articles",
         handler: () => {
           
             window.open("https://blog.google/technology/ai/google-gemini-update-flash-ai-assistant-io-2024/", "_blank");
@@ -121,7 +72,7 @@ ninja.data = [{
           title: "a post with tabs",
         
         description: "this is what included tabs in a post could look like",
-        section: "",
+        section: "articles",
         handler: () => {
           
             window.location.href = "/fr/blog/2024/tabs/";
@@ -132,7 +83,7 @@ ninja.data = [{
           title: "a post with typograms",
         
         description: "this is what included typograms code could look like",
-        section: "",
+        section: "articles",
         handler: () => {
           
             window.location.href = "/fr/blog/2024/typograms/";
@@ -143,7 +94,7 @@ ninja.data = [{
           title: "a post that can be cited",
         
         description: "this is what a post that can be cited looks like",
-        section: "",
+        section: "articles",
         handler: () => {
           
             window.location.href = "/fr/blog/2024/post-citation/";
@@ -154,7 +105,7 @@ ninja.data = [{
           title: "a post with pseudo code",
         
         description: "this is what included pseudo code could look like",
-        section: "",
+        section: "articles",
         handler: () => {
           
             window.location.href = "/fr/blog/2024/pseudocode/";
@@ -165,7 +116,7 @@ ninja.data = [{
           title: "a post with code diff",
         
         description: "this is how you can display code diffs",
-        section: "",
+        section: "articles",
         handler: () => {
           
             window.location.href = "/fr/blog/2024/code-diff/";
@@ -176,7 +127,7 @@ ninja.data = [{
           title: "a post with advanced image components",
         
         description: "this is what advanced image components could look like",
-        section: "",
+        section: "articles",
         handler: () => {
           
             window.location.href = "/fr/blog/2024/advanced-images/";
@@ -187,7 +138,7 @@ ninja.data = [{
           title: "a post with vega lite",
         
         description: "this is what included vega lite code could look like",
-        section: "",
+        section: "articles",
         handler: () => {
           
             window.location.href = "/fr/blog/2024/vega-lite/";
@@ -198,7 +149,7 @@ ninja.data = [{
           title: "a post with geojson",
         
         description: "this is what included geojson code could look like",
-        section: "",
+        section: "articles",
         handler: () => {
           
             window.location.href = "/fr/blog/2024/geojson-map/";
@@ -209,7 +160,7 @@ ninja.data = [{
           title: "a post with echarts",
         
         description: "this is what included echarts code could look like",
-        section: "",
+        section: "articles",
         handler: () => {
           
             window.location.href = "/fr/blog/2024/echarts/";
@@ -220,7 +171,7 @@ ninja.data = [{
           title: "a post with chart.js",
         
         description: "this is what included chart.js code could look like",
-        section: "",
+        section: "articles",
         handler: () => {
           
             window.location.href = "/fr/blog/2024/chartjs/";
@@ -231,7 +182,7 @@ ninja.data = [{
           title: "a post with TikZJax",
         
         description: "this is what included TikZ code could look like",
-        section: "",
+        section: "articles",
         handler: () => {
           
             window.location.href = "/fr/blog/2023/tikzjax/";
@@ -242,7 +193,7 @@ ninja.data = [{
           title: "a post with bibliography",
         
         description: "an example of a blog post with bibliography",
-        section: "",
+        section: "articles",
         handler: () => {
           
             window.location.href = "/fr/blog/2023/post-bibliography/";
@@ -253,7 +204,7 @@ ninja.data = [{
           title: "a post with jupyter notebook",
         
         description: "an example of a blog post with jupyter notebook",
-        section: "",
+        section: "articles",
         handler: () => {
           
             window.location.href = "/fr/blog/2023/jupyter-notebook/";
@@ -264,7 +215,7 @@ ninja.data = [{
           title: "a post with custom blockquotes",
         
         description: "an example of a blog post with custom blockquotes",
-        section: "",
+        section: "articles",
         handler: () => {
           
             window.location.href = "/fr/blog/2023/custom-blockquotes/";
@@ -275,7 +226,7 @@ ninja.data = [{
           title: "a post with table of contents on a sidebar",
         
         description: "an example of a blog post with table of contents on a sidebar",
-        section: "",
+        section: "articles",
         handler: () => {
           
             window.location.href = "/fr/blog/2023/sidebar-table-of-contents/";
@@ -286,7 +237,7 @@ ninja.data = [{
           title: "a post with audios",
         
         description: "this is what included audios could look like",
-        section: "",
+        section: "articles",
         handler: () => {
           
             window.location.href = "/fr/blog/2023/audios/";
@@ -297,7 +248,7 @@ ninja.data = [{
           title: "a post with videos",
         
         description: "this is what included videos could look like",
-        section: "",
+        section: "articles",
         handler: () => {
           
             window.location.href = "/fr/blog/2023/videos/";
@@ -308,7 +259,7 @@ ninja.data = [{
           title: "displaying beautiful tables with Bootstrap Tables",
         
         description: "an example of how to use Bootstrap Tables",
-        section: "",
+        section: "articles",
         handler: () => {
           
             window.location.href = "/fr/blog/2023/tables/";
@@ -319,7 +270,7 @@ ninja.data = [{
           title: "a post with table of contents",
         
         description: "an example of a blog post with table of contents",
-        section: "",
+        section: "articles",
         handler: () => {
           
             window.location.href = "/fr/blog/2023/table-of-contents/";
@@ -330,7 +281,7 @@ ninja.data = [{
           title: "a post with giscus comments",
         
         description: "an example of a blog post with giscus comments",
-        section: "",
+        section: "articles",
         handler: () => {
           
             window.location.href = "/fr/blog/2022/giscus-comments/";
@@ -341,7 +292,7 @@ ninja.data = [{
           title: 'Displaying External Posts on Your al-folio Blog <svg width="1.2rem" height="1.2rem" top=".5rem" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg"><path d="M17 13.5v6H5v-12h6m3-3h6v6m0-6-9 9" class="icon_svg-stroke" stroke="#999" stroke-width="1.5" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round"></path></svg>',
         
         description: "",
-        section: "",
+        section: "articles",
         handler: () => {
           
             window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
@@ -352,7 +303,7 @@ ninja.data = [{
           title: "a post with redirect",
         
         description: "you can also redirect to assets like pdf",
-        section: "",
+        section: "articles",
         handler: () => {
           
             window.location.href = "/fr/assets/pdf/en-us/example_pdf.pdf";
@@ -363,7 +314,7 @@ ninja.data = [{
           title: "a post with diagrams",
         
         description: "an example of a blog post with diagrams",
-        section: "",
+        section: "articles",
         handler: () => {
           
             window.location.href = "/fr/blog/2021/diagrams/";
@@ -374,7 +325,7 @@ ninja.data = [{
           title: "a post with twitter",
         
         description: "an example of a blog post with twitter",
-        section: "",
+        section: "articles",
         handler: () => {
           
             window.location.href = "/fr/blog/2020/twitter/";
@@ -385,7 +336,7 @@ ninja.data = [{
           title: "a distill-style blog post",
         
         description: "an example of a distill-style blog post and main elements",
-        section: "",
+        section: "articles",
         handler: () => {
           
             window.location.href = "/fr/blog/2018/distill/";
@@ -396,7 +347,7 @@ ninja.data = [{
           title: "a post with disqus comments",
         
         description: "an example of a blog post with disqus comments",
-        section: "",
+        section: "articles",
         handler: () => {
           
             window.location.href = "/fr/blog/2015/disqus-comments/";
@@ -407,7 +358,7 @@ ninja.data = [{
           title: "a post with math",
         
         description: "an example of a blog post with some math",
-        section: "",
+        section: "articles",
         handler: () => {
           
             window.location.href = "/fr/blog/2015/math/";
@@ -418,7 +369,7 @@ ninja.data = [{
           title: "a post with code",
         
         description: "an example of a blog post with some code",
-        section: "",
+        section: "articles",
         handler: () => {
           
             window.location.href = "/fr/blog/2015/code/";
@@ -429,7 +380,7 @@ ninja.data = [{
           title: "a post with images",
         
         description: "this is what included images could look like",
-        section: "",
+        section: "articles",
         handler: () => {
           
             window.location.href = "/fr/blog/2015/images/";
@@ -440,7 +391,7 @@ ninja.data = [{
           title: "a post with formatting and links",
         
         description: "march &amp; april, looking forward to summer",
-        section: "",
+        section: "articles",
         handler: () => {
           
             window.location.href = "/fr/blog/2015/formatting-and-links/";
@@ -454,115 +405,115 @@ ninja.data = [{
             },},{id: "news-achevé-un-bachelier-en-sciences-politiques-à-l-ulb-diplômé-avec-distinction",
           title: 'Achevé un Bachelier en Sciences politiques à l’ULB, diplômé avec distinction.',
           description: "",
-          section: "",},{id: "news-achevé-un-master-en-sciences-et-gestion-de-l-environnement-à-l-ulb-diplômé-avec-distinction",
+          section: "actualités",},{id: "news-achevé-un-master-en-sciences-et-gestion-de-l-environnement-à-l-ulb-diplômé-avec-distinction",
           title: 'Achevé un Master en Sciences et gestion de l’environnement à l’ULB, diplômé avec...',
           description: "",
-          section: "",},{id: "news-diplômée-cum-laude-de-la-ku-leuven-avec-un-master-en-politique-internationale",
+          section: "actualités",},{id: "news-diplômée-cum-laude-de-la-ku-leuven-avec-un-master-en-politique-internationale",
           title: 'Diplômée cum laude de la KU Leuven avec un Master en Politique internationale....',
           description: "",
-          section: "",},{id: "projects-project-1",
+          section: "actualités",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
-          section: "",handler: () => {
+          section: "projets",handler: () => {
               window.location.href = "/fr/projects/1_project/";
             },},{id: "projects-project-2",
           title: 'project 2',
           description: "a project with a background image and giscus comments",
-          section: "",handler: () => {
+          section: "projets",handler: () => {
               window.location.href = "/fr/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
           title: 'project 3 with very long name',
           description: "a project that redirects to another website",
-          section: "",handler: () => {
+          section: "projets",handler: () => {
               window.location.href = "/fr/projects/3_project/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
-          section: "",handler: () => {
+          section: "projets",handler: () => {
               window.location.href = "/fr/projects/4_project/";
             },},{id: "projects-project-5",
           title: 'project 5',
           description: "a project with a background image",
-          section: "",handler: () => {
+          section: "projets",handler: () => {
               window.location.href = "/fr/projects/5_project/";
             },},{id: "projects-project-6",
           title: 'project 6',
           description: "a project with no image",
-          section: "",handler: () => {
+          section: "projets",handler: () => {
               window.location.href = "/fr/projects/6_project/";
             },},{id: "projects-project-7",
           title: 'project 7',
           description: "with background image",
-          section: "",handler: () => {
+          section: "projets",handler: () => {
               window.location.href = "/fr/projects/7_project/";
             },},{id: "projects-project-8",
           title: 'project 8',
           description: "an other project with a background image and giscus comments",
-          section: "",handler: () => {
+          section: "projets",handler: () => {
               window.location.href = "/fr/projects/8_project/";
             },},{id: "projects-project-9",
           title: 'project 9',
           description: "another project with an image 🎉",
-          section: "",handler: () => {
+          section: "projets",handler: () => {
               window.location.href = "/fr/projects/9_project/";
             },},{
         id: 'social-cv',
         title: 'CV',
-        section: '',
+        section: 'réseaux sociaux',
         handler: () => {
           window.open("/assets/pdf/fr//assets/pdf/[LANG]/cv.pdf", "_blank");
         },
       },{
         id: 'social-email',
-        title: '',
-        section: '',
+        title: 'envoyer un courriel',
+        section: 'réseaux sociaux',
         handler: () => {
           window.open("mailto:%63%6C%65%6D%65%6E%74%69%6E%65.%64%68%65%75%72@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
         id: 'social-linkedin',
         title: 'LinkedIn',
-        section: '',
+        section: 'réseaux sociaux',
         handler: () => {
           window.open("https://www.linkedin.com/in/clémentine-dheur-903166339", "_blank");
         },
       },{
           id: 'lang-en-us',
           title: 'en-us',
-          section: '',
+          section: 'langues',
           handler: () => {
             window.location.href = "" + updatedUrl;
           },
         },{
           id: 'lang-nl',
           title: 'nl',
-          section: '',
+          section: 'langues',
           handler: () => {
             window.location.href = "/nl" + updatedUrl;
           },
         },{
       id: 'light-theme',
-      title: '',
-      description: '',
-      section: '',
+      title: 'changer le thème en clair',
+      description: 'changer le thème du site en clair',
+      section: 'thème',
       handler: () => {
         setThemeSetting("light");
       },
     },
     {
       id: 'dark-theme',
-      title: '',
-      description: '',
-      section: '',
+      title: 'changer le thème en sombre',
+      description: 'changer le thème du site en sombre',
+      section: 'thème',
       handler: () => {
         setThemeSetting("dark");
       },
     },
     {
       id: 'system-theme',
-      title: '',
-      description: '',
-      section: '',
+      title: 'utiliser le thème par défaut du système',
+      description: 'changer le thème du site selon le système par défaut',
+      section: 'thème',
       handler: () => {
         setThemeSetting("system");
       },
