@@ -1,164 +1,164 @@
 archive:
-  prefix: une archive de
-  category_suffix: dans cette catégorie
-  tag_suffix: avec ce tag
-  year_suffix: de cette année
+  prefix: Une archive de
+  category_suffix: Dans cette catégorie
+  tag_suffix: Avec ce tag
+  year_suffix: De cette année
 bibliography:
-  abstract: résumé
-  awarded: prix
-  blog: blogue
-  book_prefix: dans
-  code: code
-  last_author_prefix: et
-  poster: affiche
-  slides: diapos
-  supp: supp
-  video: vidéo
-  website: site web
+  abstract: Résumé
+  awarded: Prix
+  blog: Blogue
+  book_prefix: Dans
+  code: Code
+  last_author_prefix: Et
+  poster: Affiche
+  slides: Diapos
+  supp: Supp
+  video: Vidéo
+  website: Site web
 blog:
-  navigation_title: blogue
+  navigation_title: Blogue
 categories:
-  fun: extra
-  work: travail
+  fun: Extra
+  work: Travail
 citation:
-  bibtex: "ou comme entrée BibTeX:"
-  introduction: "Si vous avez trouvé cela utile, veuillez le citer comme suit:"
+  bibtex: "Ou comme entrée BibTeX :"
+  introduction: "Si vous avez trouvé cela utile, veuillez le citer comme suit :"
 collections:
-  books: livres
-  posts: articles
+  books: Livres
+  posts: Articles
 contact_note: Vous pouvez même ajouter une petite note indiquant lequel de ces moyens est le meilleur pour vous joindre.
 cv:
-  address: adresse
-  area: région
-  awarder: récipient(e)
-  awards: prixs
-  basics: informations générales
-  certificates: certificats
-  city: ville
-  countryCode: paysCode
-  courses: cours
-  date: date
-  education: éducation
-  email: courriel
-  endDate: date de fin
-  fluency: maîtrise
-  highlights: points clés
-  image: image
-  institution: institution
-  interests: intérêts
-  issuer: émetteur
-  keywords: mots-clés
-  label: poste
-  language: langue
-  languages: langues
-  level: niveau
-  location: emplacement
-  name: nom
-  network: réseau
-  organization: organisation
-  phone: téléphone
-  position: poste
-  postalCode: code postal
+  address: Adresse
+  area: Région
+  awarder: Récipient(e)
+  awards: Prix
+  basics: Informations générales
+  certificates: Certificats
+  city: Ville
+  countryCode: PaysCode
+  courses: Cours
+  date: Date
+  education: Éducation
+  email: Courriel
+  endDate: Date de fin
+  fluency: Maîtrise
+  highlights: Points clés
+  image: Image
+  institution: Institution
+  interests: Intérêts
+  issuer: Émetteur
+  keywords: Mots-clés
+  label: Poste
+  language: Langue
+  languages: Langues
+  level: Niveau
+  location: Emplacement
+  name: Nom
+  network: Réseau
+  organization: Organisation
+  phone: Téléphone
+  position: Poste
+  postalCode: Code postal
   present: Présent
-  profiles: profils
-  projects: projets
-  publications: publications
-  publisher: éditeur
-  reference: référence
-  references: références
-  region: région
-  releaseDate: date de publication
-  score: score
-  skills: compétences
-  startDate: date de début
-  studyType: "domaine d'études"
-  summary: résumé
-  table_of_contents: table des matières
-  title: titre
-  url: site web
-  username: nom d'utilisateur
-  volunteer: bénévolat
-  work: travail
+  profiles: Profils
+  projects: Projets
+  publications: Publications
+  publisher: Éditeur
+  reference: Référence
+  references: Références
+  region: Région
+  releaseDate: Date de publication
+  score: Score
+  skills: Compétences
+  startDate: Date de début
+  studyType: "Domaine d'études"
+  summary: Résumé
+  table_of_contents: Table des matières
+  title: Titre
+  url: LinkedIn
+  username: Nom d'utilisateur
+  volunteer: Bénévolat
+  work: Travail
 footer:
   copyright: "Droits d'auteur"
   last_updated: "Dernière mise à jour le "
-footer_text: > # the ">" symbol means to ignore newlines until "titles:"
+footer_text: >
   Propulsé par <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> avec le thème <a href="https://github.com/george-gca/multi-language-al-folio">multi-language-al-folio</a>.
   Hébergé par <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos de <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-latest_posts: derniers articles
+latest_posts: Derniers articles
 months:
   long:
-    january: janvier
-    february: février
-    march: mars
-    april: avril
-    may: mai
-    june: juin
-    july: juillet
-    august: août
-    september: septembre
-    october: octobre
-    november: novembre
-    december: décembre
+    january: Janvier
+    february: Février
+    march: Mars
+    april: Avril
+    may: Mai
+    june: Juin
+    july: Juillet
+    august: Août
+    september: Septembre
+    october: Octobre
+    november: Novembre
+    december: Décembre
   short:
-    january: jan
-    february: fév
-    march: mar
-    april: avr
-    may: mai
-    june: jun
-    july: jul
-    august: aoû
-    september: sep
-    october: oct
-    november: nov
-    december: déc
-news: actualités
+    january: Jan
+    february: Fév
+    march: Mar
+    april: Avr
+    may: Mai
+    june: Juin
+    july: Jul
+    august: Aoû
+    september: Sep
+    october: Oct
+    november: Nov
+    december: Déc
+news: Actualités
 newsletter:
-  back: retour
+  back: Retour
   error: "Oups ! Quelque chose s'est mal passé, veuillez réessayer."
-  subscribe: "s'abonner"
+  subscribe: "S'abonner"
   subscribed: "Vous vous êtes abonné(e) à la newsletter avec succès."
-  subscribe_to_receive: "Abonnez-vous pour être informé(e) des prochains articles:"
+  subscribe_to_receive: "Abonnez-vous pour être informé(e) des prochains articles :"
   too_many_signups: "Trop d'inscriptions, veuillez réessayer plus tard."
   wait: "Veuillez patienter..."
 no_news: "Aucune actualité pour l'instant..."
 no_posts: "Aucun article pour le moment..."
 pagination:
-  page: page
+  page: Page
 post:
   created_in: Créé le
-  created_by: par
+  created_by: Par
   last_updated: "Dernière mise à jour le "
-references: références
+references: Références
 related_posts:
   description: "Voici d'autres articles que vous pourriez aimer lire ensuite :"
   title: "Vous avez aimé lire cet article ?"
 search:
   dark_theme:
-    description: changer le thème du site en sombre
-    title: changer le thème en sombre
-  dropdown: déroulant
-  email: envoyer un courriel
+    description: Changer le thème du site en sombre
+    title: Changer le thème en sombre
+  dropdown: Déroulant
+  email: Envoyer un courriel
   footer:
-    close: fermer
-    navigate: naviguer
-    parent: revenir au parent
-    select: sélectionner
-  languages: langues
+    close: Fermer
+    navigate: Naviguer
+    parent: Revenir au parent
+    select: Sélectionner
+  languages: Langues
   light_theme:
-    description: changer le thème du site en clair
-    title: changer le thème en clair
-  navigation: menu de navigation
-  news: actualités
+    description: Changer le thème du site en clair
+    title: Changer le thème en clair
+  navigation: Menu de navigation
+  news: Actualités
   placeholder: Tapez pour commencer la recherche
-  posts: articles
-  projects: projets
-  socials: réseaux sociaux
+  posts: Articles
+  projects: Projets
+  socials: Réseaux sociaux
   system_theme:
-    description: changer le thème du site selon le système par défaut
-    title: utiliser le thème par défaut du système
-  theme: thème
-selected_publications: publications sélectionnées
+    description: Changer le thème du site selon le système par défaut
+    title: Utiliser le thème par défaut du système
+  theme: Thème
+selected_publications: Publications sélectionnées
 site_description: Un thème simple et épuré pour les académiques. Basé sur le design de [*folio](https://github.com/bogoli/-folio).
