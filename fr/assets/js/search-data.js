@@ -451,16 +451,14 @@ ninja.data = [{
           description: "",
           section: "",handler: () => {
               window.location.href = "/fr/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-achevé-un-bachelier-en-sciences-politiques-à-l-ulb-diplômé-avec-distinction",
+          title: 'Achevé un Bachelier en Sciences politiques à l’ULB, diplômé avec distinction.',
           description: "",
-          section: "",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "",},{id: "news-achevé-un-master-en-sciences-et-gestion-de-l-environnement-à-l-ulb-diplômé-avec-distinction",
+          title: 'Achevé un Master en Sciences et gestion de l’environnement à l’ULB, diplômé avec...',
           description: "",
-          section: "",handler: () => {
-              window.location.href = "/fr/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "",},{id: "news-diplômée-cum-laude-de-la-ku-leuven-avec-un-master-en-politique-internationale",
+          title: 'Diplômée cum laude de la KU Leuven avec un Master en Politique internationale....',
           description: "",
           section: "",},{id: "projects-project-1",
           title: 'project 1',

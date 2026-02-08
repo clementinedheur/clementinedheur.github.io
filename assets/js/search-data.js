@@ -451,16 +451,14 @@ ninja.data = [{
           description: "",
           section: "",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+            },},{id: "news-completed-a-bachelor-s-in-political-science-at-ulb-graduating-with-distinction",
+          title: 'Completed a Bachelor’s in Political Science at ULB, graduating with distinction.',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-completed-a-master-s-in-environmental-sciences-and-management-at-ulb-graduating-with-distinction",
+          title: 'Completed a Master’s in Environmental Sciences and Management at ULB, graduating with distinction....',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-graduated-cum-laude-from-ku-leuven-with-a-master-s-in-international-politics",
+          title: 'Graduated cum laude from KU Leuven with a Master’s in International Politics',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
