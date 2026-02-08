@@ -14,15 +14,15 @@ const ninja = document.querySelector('ninja-keys');
 
 // add the home and posts menu items
 ninja.data = [{
-    id: "nav-about",
-    title: "about",
+    id: "nav-à-propos",
+    title: "à propos",
     section: "Menu de navigation",
     handler: () => {
       window.location.href = "/fr/";
     },
-  },{id: "nav-projetos",
-          title: "projetos",
-          description: "Uma crescente coleção de seus projetos interessantes.",
+  },{id: "nav-projets",
+          title: "projets",
+          description: "Projets que j&#39;ai complété durant mes études de Master.",
           section: "Menu de navigation",
           handler: () => {
             window.location.href = "/fr/projects/";
@@ -306,7 +306,7 @@ ninja.data = [{
         section: "Articles",
         handler: () => {
           
-            window.location.href = "/fr/assets/pdf/en-us/example_pdf.pdf";
+            window.location.href = "/fr/assets/pdf/pt-br/example_pdf.pdf";
           
         },
       },{id: "post-a-post-with-diagrams",
@@ -364,11 +364,11 @@ ninja.data = [{
             window.location.href = "/fr/blog/2015/math/";
           
         },
-      },{id: "post-a-post-with-code",
+      },{id: "post-uma-postagem-com-código",
         
-          title: "a post with code",
+          title: "uma postagem com código",
         
-        description: "an example of a blog post with some code",
+        description: "um exemplo de uma postagem em um blog com código",
         section: "Articles",
         handler: () => {
           
@@ -411,34 +411,34 @@ ninja.data = [{
           section: "Actualités",},{id: "news-diplômée-cum-laude-de-la-ku-leuven-avec-un-master-en-politique-internationale",
           title: 'Diplômée cum laude de la KU Leuven avec un Master en Politique internationale....',
           description: "",
-          section: "Actualités",},{id: "projects-master-39-s-thesis-1",
-          title: 'Master&amp;#39;s thesis 1',
-          description: "Master&#39;s thesis ...",
+          section: "Actualités",},{id: "projects-projeto-1",
+          title: 'projeto 1',
+          description: "com imagem de fundo",
           section: "Projets",handler: () => {
-              window.location.href = "/fr/projects/1_master_thesis/";
-            },},{id: "projects-master-39-s-thesis-2",
-          title: 'Master&amp;#39;s thesis 2',
-          description: "Master&#39;s thesis ...",
+              window.location.href = "/fr/projects/1_project/";
+            },},{id: "projects-projeto-2",
+          title: 'projeto 2',
+          description: "um projeto com imagem de fundo e comentários do giscus",
           section: "Projets",handler: () => {
-              window.location.href = "/fr/projects/2_master_thesis/";
-            },},{id: "projects-policy-brief",
-          title: 'Policy brief',
-          description: "Policy brief ...",
+              window.location.href = "/fr/projects/2_project/";
+            },},{id: "projects-projeto-3-com-um-nome-bem-longo",
+          title: 'projeto 3 com um nome bem longo',
+          description: "um projeto que redireciona pra outro website",
           section: "Projets",handler: () => {
-              window.location.href = "/fr/projects/3_policy_brief/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+              window.location.href = "/fr/projects/3_project/";
+            },},{id: "projects-projeto-4",
+          title: 'projeto 4',
+          description: "outro sem imagem",
           section: "Projets",handler: () => {
               window.location.href = "/fr/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+            },},{id: "projects-projeto-5",
+          title: 'projeto 5',
+          description: "um projeto com imagem de fundo",
           section: "Projets",handler: () => {
               window.location.href = "/fr/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
+            },},{id: "projects-projeto-6",
+          title: 'projeto 6',
+          description: "um projeto sem imagem",
           section: "Projets",handler: () => {
               window.location.href = "/fr/projects/6_project/";
             },},{id: "projects-project-7",
@@ -483,13 +483,6 @@ ninja.data = [{
           section: 'Langues',
           handler: () => {
             window.location.href = "" + updatedUrl;
-          },
-        },{
-          id: 'lang-nl',
-          title: 'nl',
-          section: 'Langues',
-          handler: () => {
-            window.location.href = "/nl" + updatedUrl;
           },
         },{
       id: 'light-theme',

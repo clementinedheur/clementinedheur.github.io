@@ -22,7 +22,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "",
+          description: "A sample of papers and projects I completed during my Master&#39;s studies.",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/projects/";
@@ -483,13 +483,6 @@ ninja.data = [{
           section: 'Languages',
           handler: () => {
             window.location.href = "/fr" + updatedUrl;
-          },
-        },{
-          id: 'lang-nl',
-          title: 'nl',
-          section: 'Languages',
-          handler: () => {
-            window.location.href = "/nl" + updatedUrl;
           },
         },{
       id: 'light-theme',
