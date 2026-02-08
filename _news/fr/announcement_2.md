@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Achevé un Master en Sciences et gestion de l'environnement à l'ULB, diplômé avec distinction.
+Obtention d'un Master en Sciences et gestion de l'environnement à l'ULB, avec distinction.

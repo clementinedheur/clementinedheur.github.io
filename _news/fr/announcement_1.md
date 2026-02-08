@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Achevé un Bachelier en Sciences politiques à l'ULB, diplômé avec distinction.
+Obtention d'un Bachelier en Sciences politiques à l'ULB, avec distinction.
