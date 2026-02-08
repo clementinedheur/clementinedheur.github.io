@@ -3,7 +3,7 @@ page_id: projects
 layout: page
 title: projects
 permalink: /projects/
-description: 
+description: A sample of papers and projects I completed during my Master's studies.
 nav: true
 nav_order: 3
 display_categories: [studies]

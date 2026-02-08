@@ -1,12 +1,12 @@
 ---
 page_id: projects
 layout: page
-title: projetos
+title: projets
 permalink: /projects/
-description: Uma crescente coleção de seus projetos interessantes.
+description: Projets que j'ai complété durant mes études de Master.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+display_categories: [studies]
 horizontal: false
 ---
 

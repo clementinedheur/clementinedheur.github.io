@@ -368,7 +368,7 @@ external_links:
 # Jekyll Polyglot
 # -----------------------------------------------------------------------------
 
-languages: ["en-us", "fr", "nl"]
+languages: ["en-us", "fr"]
 default_lang: "en-us"
 exclude_from_localization: ["assets"]
 lang_from_path: true
