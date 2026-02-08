@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Completed a Bachelor's in Political Science at ULB, graduating with distinction.
+Achevé un Bachelier en Sciences politiques à l'ULB, diplômé avec distinction.
