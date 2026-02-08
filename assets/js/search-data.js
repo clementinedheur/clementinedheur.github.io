@@ -512,56 +512,35 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/en-us//assets/pdf/[LANG]/example_pdf.pdf", "_blank");
+          window.open("/assets/pdf/en-us//assets/pdf/[LANG]/cv.pdf", "_blank");
         },
       },{
         id: 'social-email',
         title: 'Send an email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%63%6C%65%6D%65%6E%74%69%6E%65.%64%68%65%75%72@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
-        id: 'social-inspire',
-        title: 'Inspire HEP',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://inspirehep.net/authors/1010907", "_blank");
+          window.open("https://www.linkedin.com/in/clémentine-dheur-903166339", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
-        },
-      },{
-        id: 'social-scholar',
-        title: 'Google Scholar',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://scholar.google.com/citations?user=qc6CJjYAAAAJ", "_blank");
-        },
-      },{
-        id: 'social-custom_social',
-        title: 'Custom_social',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://www.alberteinstein.com/", "_blank");
-        },
-      },{
-          id: 'lang-pt-br',
-          title: 'pt-br',
+          id: 'lang-fr',
+          title: 'fr',
           section: 'Languages',
           handler: () => {
-            window.location.href = "/pt-br" + updatedUrl;
+            window.location.href = "/fr" + updatedUrl;
           },
         },{
-          id: 'lang-fr-ca',
-          title: 'fr-ca',
+          id: 'lang-nl',
+          title: 'nl',
           section: 'Languages',
           handler: () => {
-            window.location.href = "/fr-ca" + updatedUrl;
+            window.location.href = "/nl" + updatedUrl;
           },
         },{
       id: 'light-theme',
