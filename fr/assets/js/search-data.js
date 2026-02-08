@@ -402,11 +402,11 @@ ninja.data = [{
           description: "",
           section: "",handler: () => {
               window.location.href = "/fr/books/the_godfather/";
-            },},{id: "news-achevé-un-bachelier-en-sciences-politiques-à-l-ulb-diplômé-avec-distinction",
-          title: 'Achevé un Bachelier en Sciences politiques à l’ULB, diplômé avec distinction.',
+            },},{id: "news-obtention-d-un-bachelier-en-sciences-politiques-à-l-ulb-avec-distinction",
+          title: 'Obtention d’un Bachelier en Sciences politiques à l’ULB, avec distinction.',
           description: "",
-          section: "Actualités",},{id: "news-achevé-un-master-en-sciences-et-gestion-de-l-environnement-à-l-ulb-diplômé-avec-distinction",
-          title: 'Achevé un Master en Sciences et gestion de l’environnement à l’ULB, diplômé avec...',
+          section: "Actualités",},{id: "news-obtention-d-un-master-en-sciences-et-gestion-de-l-environnement-à-l-ulb-avec-distinction",
+          title: 'Obtention d’un Master en Sciences et gestion de l’environnement à l’ULB, avec distinction....',
           description: "",
           section: "Actualités",},{id: "news-diplômée-cum-laude-de-la-ku-leuven-avec-un-master-en-politique-internationale",
           title: 'Diplômée cum laude de la KU Leuven avec un Master en Politique internationale....',
