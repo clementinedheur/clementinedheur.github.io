@@ -22,7 +22,7 @@ ninja.data = [{
     },
   },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/projects/";
@@ -411,21 +411,21 @@ ninja.data = [{
           section: "News",},{id: "news-graduated-cum-laude-from-ku-leuven-with-a-master-s-in-international-politics",
           title: 'Graduated cum laude from KU Leuven with a Master’s in International Politics',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-master-39-s-thesis-1",
+          title: 'Master&amp;#39;s thesis 1',
+          description: "Master&#39;s thesis ...",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+              window.location.href = "/projects/1_master_thesis/";
+            },},{id: "projects-master-39-s-thesis-2",
+          title: 'Master&amp;#39;s thesis 2',
+          description: "Master&#39;s thesis ...",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+              window.location.href = "/projects/2_master_thesis/";
+            },},{id: "projects-policy-brief",
+          title: 'Policy brief',
+          description: "Policy brief ...",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
+              window.location.href = "/projects/3_policy_brief/";
             },},{id: "projects-project-4",
           title: 'project 4',
           description: "another without an image",
