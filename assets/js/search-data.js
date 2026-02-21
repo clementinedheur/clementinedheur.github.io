@@ -20,19 +20,19 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-projects",
-          title: "projects",
-          description: "A sample of papers and projects I completed during my Master&#39;s studies.",
-          section: "Navigation menu",
-          handler: () => {
-            window.location.href = "/projects/";
-          },
-        },{id: "nav-cv",
+  },{id: "nav-cv",
           title: "cv",
           description: "",
           section: "Navigation menu",
           handler: () => {
             window.location.href = "/cv/";
+          },
+        },{id: "nav-projects",
+          title: "projects",
+          description: "A sample of papers and projects I completed during my Master&#39;s studies.",
+          section: "Navigation menu",
+          handler: () => {
+            window.location.href = "/projects/";
           },
         },{id: "post-a-post-with-plotly-js",
         
@@ -413,29 +413,29 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-master-39-s-thesis-1",
           title: 'Master&amp;#39;s thesis 1',
-          description: "Master&#39;s thesis ...",
+          description: "The Governance Model of Brussels’ Citizen Assembly for Climate",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_master_thesis/";
             },},{id: "projects-master-39-s-thesis-2",
           title: 'Master&amp;#39;s thesis 2',
-          description: "Master&#39;s thesis ...",
+          description: "Green Extractivism in Bolivia",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_master_thesis/";
-            },},{id: "projects-policy-brief",
-          title: 'Policy brief',
-          description: "Policy brief ...",
+            },},{id: "projects-policy-brief-1",
+          title: 'Policy brief 1',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_policy_brief/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-policy-brief-2",
+          title: 'Policy brief 2',
+          description: "",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
+              window.location.href = "/projects/4_policy_brief/";
+            },},{id: "projects-assignment",
+          title: 'Assignment',
+          description: "Mapping the Forest Regime Complex",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
+              window.location.href = "/projects/5_assignment/";
             },},{id: "projects-project-6",
           title: 'project 6',
           description: "a project with no image",

@@ -20,19 +20,19 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/fr/";
     },
-  },{id: "nav-projets",
-          title: "projets",
-          description: "Projets que j&#39;ai complété durant mes études de Master.",
-          section: "Menu de navigation",
-          handler: () => {
-            window.location.href = "/fr/projects/";
-          },
-        },{id: "nav-cv",
+  },{id: "nav-cv",
           title: "cv",
           description: "",
           section: "Menu de navigation",
           handler: () => {
             window.location.href = "/fr/cv/";
+          },
+        },{id: "nav-projets",
+          title: "projets",
+          description: "Projets que j&#39;ai complété durant mes études de Master.",
+          section: "Menu de navigation",
+          handler: () => {
+            window.location.href = "/fr/projects/";
           },
         },{id: "post-a-post-with-plotly-js",
         
@@ -411,31 +411,31 @@ ninja.data = [{
           section: "Actualités",},{id: "news-diplômée-cum-laude-de-la-ku-leuven-avec-un-master-en-politique-internationale",
           title: 'Diplômée cum laude de la KU Leuven avec un Master en Politique internationale....',
           description: "",
-          section: "Actualités",},{id: "projects-projeto-1",
-          title: 'projeto 1',
-          description: "com imagem de fundo",
+          section: "Actualités",},{id: "projects-mémoire-1",
+          title: 'Mémoire 1',
+          description: "Le modèle de gouvernance de l’Assemblée Citoyenne pour le Climat",
           section: "Projets",handler: () => {
-              window.location.href = "/fr/projects/1_project/";
-            },},{id: "projects-projeto-2",
-          title: 'projeto 2',
-          description: "um projeto com imagem de fundo e comentários do giscus",
+              window.location.href = "/fr/projects/1_master_thesis/";
+            },},{id: "projects-mémoire-2",
+          title: 'Mémoire 2',
+          description: "Extractivisme Vert en Bolivie",
           section: "Projets",handler: () => {
-              window.location.href = "/fr/projects/2_project/";
-            },},{id: "projects-projeto-3-com-um-nome-bem-longo",
-          title: 'projeto 3 com um nome bem longo',
-          description: "um projeto que redireciona pra outro website",
+              window.location.href = "/fr/projects/2_master_thesis/";
+            },},{id: "projects-policy-brief-1",
+          title: 'Policy brief 1',
+          description: "",
           section: "Projets",handler: () => {
-              window.location.href = "/fr/projects/3_project/";
-            },},{id: "projects-projeto-4",
-          title: 'projeto 4',
-          description: "outro sem imagem",
+              window.location.href = "/fr/projects/3_policy_brief/";
+            },},{id: "projects-policy-brief-2",
+          title: 'Policy brief 2',
+          description: "",
           section: "Projets",handler: () => {
-              window.location.href = "/fr/projects/4_project/";
-            },},{id: "projects-projeto-5",
-          title: 'projeto 5',
-          description: "um projeto com imagem de fundo",
+              window.location.href = "/fr/projects/4_policy_brief/";
+            },},{id: "projects-assignment",
+          title: 'Assignment',
+          description: "Mapping the Forest Regime Complex",
           section: "Projets",handler: () => {
-              window.location.href = "/fr/projects/5_project/";
+              window.location.href = "/fr/projects/5_assignment/";
             },},{id: "projects-projeto-6",
           title: 'projeto 6',
           description: "um projeto sem imagem",
