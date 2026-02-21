@@ -6,7 +6,7 @@
     "email": "clementine.dheur@gmail.com",
     "phone": "+32 493081020",
     "url": "https://linkedin.com/in/clémentine-dheur-903166339",
-    "summary": "Jeune diplômée trilingue (FR, EN, NL), à l’interface entre stratégie politique et gestion technique de l’environnement. Je combine analyse rigoureuse et forte capacité de communication pour traduire des enjeux de durabilité et des cadres réglementaires complexes en analyses claires et directement exploitables.",
+    "summary": "Jeune diplômée quadrilingue (FR, EN, NL, ES) dotée d’un double Master en Politique Internationale et en Sciences et Gestion de l’Environnement. À l’interface entre durabilité technique et stratégie politique, je me spécialise dans la traduction de données environnementales et règlementaires complexes en analyses claires, concises et directement exploitables pour divers publics.",
     "location": {
       "address": "24 rue Fourmois",
       "postalCode": "1050",
@@ -93,7 +93,7 @@
   "work": [
     {
       "name": "Supermarché Delhaize Saint-Michel",
-      "position": "Caissière",
+      "position": "Caissière (étudiante)",
       "url": "",
       "startDate": "2022-08-01",
       "endDate": "2024-08-01",
@@ -102,7 +102,7 @@
     },
     {
       "name": "Auberge Magic Packer (Cuzco) | Wild Rover bar (Mancora)",
-      "position": "Barmaid",
+      "position": "Barmaid (saisonnière)",
       "url": "",
       "startDate": "2019-02-01",
       "endDate": "2019-06-01",
@@ -111,7 +111,7 @@
     },
     {
       "name": "Hôtel Cecil De Panne",
-      "position": "Réceptionniste",
+      "position": "Réceptionniste (étudiante)",
       "url": "",
       "startDate": "2016-07-01",
       "endDate": "2018-08-01",
@@ -155,7 +155,7 @@
       ]
     },
     {
-      "name": "Savoir-être",
+      "name": "Qualités",
       "level": "Expert",
       "icon": "fa-solid fa-user-group",
       "keywords": [
@@ -169,7 +169,7 @@
   "interests": [],
   "projects": [
     {
-      "name": "Mémoire (Politique Internationale)",
+      "name": "<a href='/projects/2_master_thesis/'>Mémoire (Politique Internationale) 🔗</a>",
       "summary": "« Green extractivism in Bolivia : the discursive strategies of the MAS party. A longitudinal analysis of government programs. »",
       "highlights": [],
       "startDate": "2024-01-01",
@@ -177,8 +177,8 @@
       "url": ""
     },
     {
-      "name": "Mémoire (Sciences de l'environnement)",
-      "summary": "« Comment le modèle de gouvernance de l’Assemblée Citoyenne pour le Climat à Bruxelles influence-t-il sa capacité à impacter les politiques environnementales ? »",
+      "name": "<a href='/projects/1_master_thesis/'>Mémoire (Sciences de l'environnement) 🔗</a>",
+      "summary": "« L’influence de la délibération citoyenne sur la politique environnementale : Analyse du modèle de gouvernance de l’Assemblée Citoyenne pour le Climat à Bruxelles au prisme de l’IAD. »",
       "highlights": [],
       "startDate": "2022-01-01",
       "endDate": "2024-01-01",

@@ -5,7 +5,7 @@ title: projets
 permalink: /projects/
 description: Projets que j'ai complété durant mes études de Master.
 nav: true
-nav_order: 3
+nav_order: 7
 display_categories: [studies]
 horizontal: false
 ---

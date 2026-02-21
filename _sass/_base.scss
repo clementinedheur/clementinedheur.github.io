@@ -181,6 +181,10 @@ ul.task-list input[type="checkbox"] {
     color: var(--global-text-color);
   }
 
+  .card-text {
+    color: var(--global-text-color);
+  }
+
   .card-body {
     padding: 1.25rem 1.25rem 1.25rem 1.25rem;
   }
@@ -680,6 +684,10 @@ footer.sticky-bottom {
 .projects {
   a {
     text-decoration: none;
+
+    .card-text {
+      color: var(--global-text-color) !important;
+    }
 
     &:hover {
       .card-title {

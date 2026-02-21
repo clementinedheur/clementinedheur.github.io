@@ -1,76 +1,40 @@
 ---
 page_id: project_2
-layout: page
+layout: master_thesis
 title: Master's thesis 2
-description: Master's thesis ...
-img: assets/img/12.jpg
+description: Green Extractivism in Bolivia
+img: assets/img/projects/project_2/cover.png
 importance: 1
 category: studies
-related_publications: true
+related_publications: false
+pdf: Master's thesis 2_Green Extractivism in Bolivia.pdf
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
+<h4>
+Green Extractivism in Bolivia: the discursive strategies of the MAS party.
+A longitudinal analysis of framing strategies in government programmes (2005-2020)
+</h4>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/project_2/2005 programme coverage.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/project_2/2020 coverage.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/projects/project_2/Coverage environmental theme.png" title="example image" class="img-fluid rounded z-depth-1" %} 
     </div>
 </div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+<h4><b>Summary</b></h4> 
 
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
+In 2005, the Movimiento al Socialismo (MAS) party ascended the Bolivian government by bringing its leader Evo Morales to the presidential elections, and secured victory in every subsequent general election (Cunha Filho, 2023). The MAS governance ushered in significant transformations, including the nationalisation of key sectors, the expansion of Indigenous and environmental rights, and a sharp break from prior neoliberal policies (Uharte Pozas, 2017). However, growing tensions emerged as the party’s reliance on resource extraction increasingly conflicted with its foundational Indigenous and environmental commitments (Anthias, 2017).
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+This thesis draws on the concept of Green Extractivism as its theoretical framework to analyse how MAS strategically frames its reliance on extractive activities, with a focus on environmental justifications, to legitimise them, and how these framings have evolved across mandates. The investigation on this matter was conducted using a mixed qualitativequantitative content analysis of MAS’s government programmes from 2005 to 2020, organising all frame types into (sub-)categories and measuring their frequencies in % coverage.
 
-{% raw %}
+The findings reveal a multifaceted discursive strategy. Economic justifications are the most varied and prominent, portraying extraction as key to productivity, industrialisation, growth, national revenue generation, technological innovation, employment, prosperity and competitiveness. Political framings emphasise sovereignty, anti-imperialism, international standing and national pride as arguments to justify extraction, while social framings underline the role of extraction in improving the Bolivians’ quality of life, enhancing equity through redistribution and fostering inclusion.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+Lastly, environmental justifications, though the least salient, were consistently mobilised. They present resource extraction as both environmentally responsible and environmentally beneficial. While the first one contributes to legitimising the expanding frontiers of the party’s extractive activities, the second one goes beyond the compatibility narrative to present extraction (particularly of lithium) as even beneficial and necessary for climate change mitigation. These environmental narratives clearly align with the logic of Green Extractivism as defined by Dunlap et al. (2024).
 
-{% endraw %}
+Overall, MAS shifted from revolutionary nationalist rhetoric to pragmatic developmentalism, with environmental framings selectively emphasised or downplayed depending on the political context. These findings confirm that MAS attempts to reconcile extractivism with environmental concerns through a dynamic and strategic mix of legitimising narratives.

@@ -6,7 +6,7 @@
     "email": "clementine.dheur@gmail.com",
     "phone": "+32 493081020",
     "url": "https://linkedin.com/in/clémentine-dheur-903166339",
-    "summary": "Trilingual (FR/EN/NL) recent graduate with dual Master’s in Environmental Management and International Politics. I specialize in bridging the gap between technical sustainability and political strategy. I am a rigorous analyst and communicator, dedicated to translating complex regulatory data into clear, actionable insights for diverse stakeholders.",
+    "summary": "Quadrilingual (FR/EN/DU/SP) recent graduate with a dual Master’s in International Politics and Environmental Sciences and Management. I specialize in bridging the gap between technical sustainability and political strategy, translating complex environmental and regulatory data into clear and concise narratives tailored for diverse audiences.",
     "location": {
       "address": "24 rue Fourmois",
       "postalCode": "1050",
@@ -170,16 +170,16 @@
   "interests": [],
   "projects": [
     {
-      "name": "Master's Thesis (International Politics)",
-      "summary": "<a href='/projects'>Green extractivism in Bolivia</a>: the discursive strategies of the MAS party. A longitudinal analysis of government programs.",
+      "name": "<a href='/projects/2_master_thesis/'>Master's Thesis (International Politics) 🔗</a>",
+      "summary": "Green extractivism in Bolivia: the discursive strategies of the MAS party. A longitudinal analysis of government programs.",
       "highlights": [],
       "startDate": "2024-01-01",
       "endDate": "2025-01-01",
       "url": ""
     },
     {
-      "name": "Master's Thesis (Environmental Science)",
-      "summary": "How does the governance model of Brussels citizen climate assembly impact its ability to influence environmental policies?",
+      "name": "<a href='/projects/1_master_thesis/'>Master's Thesis (Environmental Science) 🔗</a>",
+      "summary": "The Influence of Citizen Deliberation on Environmental Policy: An Analysis of the Brussels Citizen Assembly for Climate’s Governance Model through the IAD Lens.",
       "highlights": [],
       "startDate": "2022-01-01",
       "endDate": "2024-01-01",

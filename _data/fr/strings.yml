@@ -77,8 +77,8 @@ cv:
   title: Titre
   url: LinkedIn
   username: Nom d'utilisateur
-  volunteer: Bénévolat
-  work: Travail
+  volunteer: Volontariat
+  work: Jobs
 footer:
   copyright: "Droits d'auteur"
   last_updated: "Dernière mise à jour le "
