@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Obtention d'un Master en Sciences et gestion de l'environnement à l'ULB, avec distinction.
+Master en Sciences et Gestion de l’Environnement (ULB) obtenu avec distinction.

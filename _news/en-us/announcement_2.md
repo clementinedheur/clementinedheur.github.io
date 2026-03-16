@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Completed a Master’s in Environmental Sciences and Management at ULB, graduating with distinction.
+Master of Environmental Sciences and Management, ULB — completed with Distinction.

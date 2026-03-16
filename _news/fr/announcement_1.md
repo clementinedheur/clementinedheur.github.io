@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Obtention d'un Bachelier en Sciences politiques à l'ULB, avec distinction.
+Bachelier en Sciences Politiques (ULB) obtenu avec distinction.

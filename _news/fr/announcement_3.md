@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Diplômée cum laude de la KU Leuven avec un Master en Politique internationale.
+Diplômée en Politique Internationale (Master) à la KU Leuven — mention Cum Laude.

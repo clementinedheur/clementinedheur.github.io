@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Completed a Bachelor's in Political Science at ULB, graduating with distinction.
+Bachelor of Political Science, ULB — completed With Distinction.
