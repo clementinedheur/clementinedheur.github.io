@@ -402,14 +402,14 @@ ninja.data = [{
           description: "",
           section: "",handler: () => {
               window.location.href = "/fr/books/the_godfather/";
-            },},{id: "news-obtention-d-un-bachelier-en-sciences-politiques-à-l-ulb-avec-distinction",
-          title: 'Obtention d’un Bachelier en Sciences politiques à l’ULB, avec distinction.',
+            },},{id: "news-bachelier-en-sciences-politiques-ulb-obtenu-avec-distinction",
+          title: 'Bachelier en Sciences Politiques (ULB) obtenu avec distinction.',
           description: "",
-          section: "Actualités",},{id: "news-obtention-d-un-master-en-sciences-et-gestion-de-l-environnement-à-l-ulb-avec-distinction",
-          title: 'Obtention d’un Master en Sciences et gestion de l’environnement à l’ULB, avec distinction....',
+          section: "Actualités",},{id: "news-master-en-sciences-et-gestion-de-l-environnement-ulb-obtenu-avec-distinction",
+          title: 'Master en Sciences et Gestion de l’Environnement (ULB) obtenu avec distinction.',
           description: "",
-          section: "Actualités",},{id: "news-diplômée-cum-laude-de-la-ku-leuven-avec-un-master-en-politique-internationale",
-          title: 'Diplômée cum laude de la KU Leuven avec un Master en Politique internationale....',
+          section: "Actualités",},{id: "news-diplômée-en-politique-internationale-master-à-la-ku-leuven-mention-cum-laude",
+          title: 'Diplômée en Politique Internationale (Master) à la KU Leuven — mention Cum Laude....',
           description: "",
           section: "Actualités",},{id: "projects-mémoire-1",
           title: 'Mémoire 1',
@@ -475,7 +475,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Réseaux sociaux',
         handler: () => {
-          window.open("https://www.linkedin.com/in/clémentine-dheur-903166339", "_blank");
+          window.open("https://www.linkedin.com/in/clémentine-dheur", "_blank");
         },
       },{
           id: 'lang-en-us',

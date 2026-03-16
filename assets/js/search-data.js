@@ -402,14 +402,14 @@ ninja.data = [{
           description: "",
           section: "",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-completed-a-bachelor-s-in-political-science-at-ulb-graduating-with-distinction",
-          title: 'Completed a Bachelor’s in Political Science at ULB, graduating with distinction.',
+            },},{id: "news-bachelor-of-political-science-ulb-completed-with-distinction",
+          title: 'Bachelor of Political Science, ULB — completed With Distinction.',
           description: "",
-          section: "News",},{id: "news-completed-a-master-s-in-environmental-sciences-and-management-at-ulb-graduating-with-distinction",
-          title: 'Completed a Master’s in Environmental Sciences and Management at ULB, graduating with distinction....',
+          section: "News",},{id: "news-master-of-environmental-sciences-and-management-ulb-completed-with-distinction",
+          title: 'Master of Environmental Sciences and Management, ULB — completed with Distinction.',
           description: "",
-          section: "News",},{id: "news-graduated-cum-laude-from-ku-leuven-with-a-master-s-in-international-politics",
-          title: 'Graduated cum laude from KU Leuven with a Master’s in International Politics',
+          section: "News",},{id: "news-graduated-with-a-master-of-international-politics-from-ku-leuven-cum-laude",
+          title: 'Graduated with a Master of International Politics from KU Leuven —Cum Laude.',
           description: "",
           section: "News",},{id: "projects-master-39-s-thesis-1",
           title: 'Master&amp;#39;s thesis 1',
@@ -475,7 +475,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/clémentine-dheur-903166339", "_blank");
+          window.open("https://www.linkedin.com/in/clémentine-dheur", "_blank");
         },
       },{
           id: 'lang-fr',
