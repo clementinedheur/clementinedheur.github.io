@@ -23,11 +23,11 @@ A longitudinal analysis of framing strategies in government programmes (2005-202
         {% include figure.liquid loading="eager" path="assets/img/projects/project_2/2020 coverage.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/project_2/Coverage environmental theme.png" title="example image" class="img-fluid rounded z-depth-1" %} 
+        {% include figure.liquid loading="eager" path="assets/img/projects/project_2/Coverage environmental theme.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
-<h4><b>Summary</b></h4> 
+<h4><b>Summary</b></h4>
 
 In 2005, the Movimiento al Socialismo (MAS) party ascended the Bolivian government by bringing its leader Evo Morales to the presidential elections, and secured victory in every subsequent general election (Cunha Filho, 2023). The MAS governance ushered in significant transformations, including the nationalisation of key sectors, the expansion of Indigenous and environmental rights, and a sharp break from prior neoliberal policies (Uharte Pozas, 2017). However, growing tensions emerged as the party’s reliance on resource extraction increasingly conflicted with its foundational Indigenous and environmental commitments (Anthias, 2017).
 

@@ -23,11 +23,11 @@ Une étude longitudinale des stratégies de légitimation dans les programmes go
         {% include figure.liquid loading="eager" path="assets/img/projects/project_2/2020 coverage.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/project_2/Coverage environmental theme.png" title="example image" class="img-fluid rounded z-depth-1" %} 
+        {% include figure.liquid loading="eager" path="assets/img/projects/project_2/Coverage environmental theme.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
-<h4><b>Résumé</b></h4> 
+<h4><b>Résumé</b></h4>
 
 En 2005, l’accession au pouvoir du Movimiento al Socialismo (MAS) en Bolivie, portée par l’élection d’Evo Morales, a marqué le début d’une hégémonie électorale ininterrompue (Cunha Filho, 2023). La gouvernance du MAS a impulsé des transformations structurelles profondes : nationalisation de secteurs stratégiques, institutionnalisation des droits des peuples autochtones et de la nature, et rupture radicale avec le paradigme néolibéral (Uharte Pozas, 2017). Néanmoins, une contradiction fondamentale a émergé entre la dépendance accrue de l'État envers l'extractivisme et ses engagements originels en faveur de la protection environnementale et de l'autonomie indigène (Anthias, 2017).
 

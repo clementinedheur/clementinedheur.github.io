@@ -12,7 +12,7 @@ pdf: Master's thesis 1_Le modèle de gouvernance de l'ACC.pdf
 
 <h4>
 L’influence de la délibération citoyenne sur la politique environnementale :
-Analyse du modèle de gouvernance de l’Assemblée Citoyenne pour le Climat à Bruxelles au prisme de l’IAD. 
+Analyse du modèle de gouvernance de l’Assemblée Citoyenne pour le Climat à Bruxelles au prisme de l’IAD.
 </h4>
 
 <div class="row">
@@ -27,7 +27,7 @@ Analyse du modèle de gouvernance de l’Assemblée Citoyenne pour le Climat à 
     </div>
 </div>
 
-<h4><b>Résumé</b></h4> 
+<h4><b>Résumé</b></h4>
 
 Les assemblées citoyennes sur le climat sont des modèles de gouvernance environnementale récents et captivants pour toutes les questions politiques, sociales et environnementales qu’ils posent. Leur modèle se situe à la convergence des concepts de démocratie participative, démocratie délibérative et
 démocratie environnementale. Récemment, la participation citoyenne est devenue un élément
@@ -49,4 +49,3 @@ La deuxième partie consiste à analyser le modèle de gouvernance décrit lors 
 de soulever les éléments de son modèle qui renforcent ou limitent la capacité d’impact de l’ACC. Nous
 avons ainsi identifié une série de facteurs, tels que la complexité du fédéralisme belge, le degré de
 participation des citoyens, la qualité de la formation et des délibérations citoyennes ainsi que l’influence des organisateurs. En particulier, nous avons observé que l’intégration de l’Assemblée dans le système politique plus large influençait grandement son potentiel d’impact, tant de manière positive que négative. Il y a effectivement une tension entre la réflexivité (les résultats) et la responsivité (les intérêts des citoyens) de l’Assemblée, qui se manifeste par des tensions entre son autonomie d’une part, et son potentiel d’impact d’autre part. Finalement, nous constaterons que le modèle de gouvernance de l’ACC a, malgré des limites intrinsèques à son modèle de gouvernance, la capacité d’influencer la politique environnementale de la Région.
-

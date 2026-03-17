@@ -26,7 +26,7 @@ The Influence of Citizen Deliberation on Environmental Policy: An Analysis of th
     </div>
 </div>
 
-<h4><b>Summary</b></h4> 
+<h4><b>Summary</b></h4>
 
 Climate citizen assemblies represent a recent and compelling model of environmental governance, given the complex political, social, and environmental questions they raise. This model operates at the intersection of participatory, deliberative, and environmental democracy. In recent years, citizen participation has become a cornerstone of environmental policy, as evidenced by the steady proliferation of such initiatives - a phenomenon that has sparked extensive debate regarding their impact and legitimacy. This research seeks to contribute to the ongoing academic discourse on the subject.
 
@@ -34,4 +34,3 @@ This study focuses on the Brussels Citizen Assembly for Climate (ACC). As a perm
 The central research question examines how the ACC’s governance model affects the Assembly’s ability to exert a meaningful impact on environmental policy. To address this, the research is structured into two parts. The first involves documenting the ACC’s governance framework through a systemic lens, drawing on Elinor Ostrom’s Institutional Analysis and Development (IAD) framework and the work of KNOCA. The data used to characterize the ACC as a system is primarily derived from direct observations of the process and six interviews conducted with key stakeholders in the field.
 
 The second part analyzes this governance model to identify the specific features that either enhance or constrain the ACC’s capacity for impact. We identify several key factors, including the complexities of Belgian federalism, the level of citizen engagement, the quality of information and deliberation, and the influence of the organizers. Notably, we find that the Assembly's integration into the broader political system significantly shapes its potential impact, both positively and negatively. Ultimately, a tension exists between the Assembly’s reflexivity (outputs) and its responsiveness (citizen interests), revealing a trade-off between its institutional autonomy and its actual policy influence. In conclusion, this study finds that despite inherent structural limitations, the ACC’s governance model maintains the capacity to influence the Region's environmental policy.
-
