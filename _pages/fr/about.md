@@ -26,6 +26,6 @@ Langues de travail : Français (C2) \| Anglais (C1) \| Néerlandais (C1) \| Espa
 
 <br>
 <p style="text-align: center;">
-<b>Mon profil vous intéresse?</b> Je vous invite à consulter mon <a href="{{ '/cv' | prepend: site.active_lang | prepend: '/' | prepend: site.baseurl }}">CV</a> complet dans la section suivante,<br> ou à parcourir mon <a href="{{ '/projects' | prepend: site.active_lang | prepend: '/' | prepend: site.baseurl }}">Portfolio</a> pour découvrir une sélection de mes travaux de recherche et analyses politiques.
+<b>Mon profil vous intéresse?</b> Je vous invite à consulter mon <a href="/cv">CV</a> complet dans la section suivante, ou à parcourir mon <a href="/projects">Portfolio</a> pour découvrir une sélection de mes travaux de recherche et analyses politiques.
 </p>
 <br>

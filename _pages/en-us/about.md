@@ -26,6 +26,6 @@ Working languages: French (C2) \| English (C1) \| Dutch (C1) \| Spanish (B2)
 
 <br>
 <p style="text-align: center;">
-<b>Interested in my profile?</b> Please find my full <a href="{{ '/cv' | prepend: site.active_lang | prepend: '/' | prepend: site.baseurl }}">CV</a> in the next section,<br> or browse my <a href="{{ '/projects' | prepend: site.active_lang | prepend: '/' | prepend: site.baseurl }}">Project Portfolio</a> to see a selection of my research papers and policy analyses.
+<b>Interested in my profile?</b> Please find my full <a href="/cv">CV</a> in the next section,<br> or browse my <a href="/projects">Project Portfolio</a> to see a selection of my research papers and policy analyses.
 </p>
 <br>
